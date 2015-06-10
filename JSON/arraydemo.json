@@ -1,1 +1,8 @@
-
+{"map-categories":[
+  {"category":"Business","ref":"b001"}
+  {"category":"Libraries","ref":"l001"}
+  {"category":"Rest Rooms","ref":"rr001"}
+  {"category":"Mobile Shops","ref":"ms001"}
+  {"category":"Recharge Shops","ref":"rs001"}
+  ]
+}
